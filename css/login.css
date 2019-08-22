@@ -1,0 +1,74 @@
+body 
+{  
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url(../image/loginbackground.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: darken;  
+}
+
+.form-login {  
+  max-width: 530px;
+  padding: 15px;  
+  margin: 70px 0;
+}
+
+.form-login h1
+{
+  color: #bbdefb;
+  font-weight: bold;
+  padding-bottom: 30px; 
+}
+
+.form-login a
+{
+  font-weight: bold;
+  color: #bbdefb;
+  padding-left: 5px;  
+}
+
+.form-login small
+{
+  font-weight: bold;
+  color: #bbdefb;
+  padding-left: 10px;  
+}
+
+.form-login .form-control 
+{
+  position: relative;
+  height: auto;  
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-login input[type="email"] 
+{
+  margin-bottom: -1px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;  
+}
+
+.form-login input[type="password"] 
+{
+  margin-bottom: 10px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px; 
+}
+
+.form-login input[type="submit"] 
+{
+  margin-bottom: -1px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px; 
+}

@@ -1,0 +1,199 @@
+*
+{
+	margin: 0; padding: 0
+}
+	
+body {
+	font-family: 'Open Sans' 
+	sans-serif; 
+	font-color: #ffff;
+	background-image: url(../image/bg2.jpg);
+	background-attachment: fixed;
+}
+
+.logo {
+	margin: 10px 0;	
+}
+
+.menu{
+	margin: 10px 0;		
+}
+
+.navbar{
+	margin: 25px 0px;
+
+}
+.navbar-default{
+	background: transparent;
+	border: none;	
+}
+
+.navbar-default .navbar-brand{
+	color: #ffff;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #ffff;
+}
+
+.navbar-nav li a{
+	font-weight: bold;	
+}
+
+header {
+	padding: 20px; 
+}
+
+.navbar-brand{
+	font-family: 'Oswald', sans-serif;
+}
+
+.banner{	
+	padding: 40px 0;
+	background-size: 100%;
+}
+
+.banner h1{
+	font-size: 55px;
+	font-family: 'sans-serif';	
+	font-weight: bold;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #e1f5fe;	
+	color: 	#ffffff;
+}
+
+.banner h3{
+	font-size: 18px;	
+	font-weight: bold;	
+	font-variant: small-caps;
+	-webkit-text-stroke-width: 0.7px;
+    -webkit-text-stroke-color: #e1f5fe ;
+	color: 	#ffffff;
+}
+
+.what-we-do{
+	/*background-image: url(../image/formbg.png);*/
+	background-color: #7e57c2;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.what-we-do h2{
+	color: #ffff;
+	font-size: 50px;
+	margin: 30px 0;
+	font-weight: bold;
+}
+
+.what-we-do h3{
+	color: #ffff;	
+	margin: 30px 0;
+	font-weight: bold;	
+}
+
+.nama-event{
+	margin-top: 160px;
+}
+
+.panel{
+	border-radius: 25px;
+	width: 300px;
+	
+}
+
+.wedo img{
+	border-radius: 50%;
+}
+
+.wedo h4{
+	color: #ffff;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+
+.slogan{	
+	/*background-image: url(../image/formbg.jpg);	*/
+	background-color: #ffff;
+	opacity: 0.8;
+}
+
+
+.last_project{
+	/*background-image: url(../image/formbg.png);*/
+	background-color: #7e57c2;
+}
+
+.last_project h1{
+	color: #ffff;
+	font-size: 50px;
+	/*margin: 30px 0;*/
+	font-weight: bold;
+}
+
+.nitrackers{
+	margin-bottom: 20px;
+}
+
+.nitrackers img{
+	width: 500px;
+	margin: auto;
+	border-radius: 50%;
+}
+
+.nitrackers h3{
+	color: #ffff;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.frostfest{
+	margin-bottom: 20px;
+}
+
+.frostfest img{
+	width: 500px;
+	margin: auto;
+}
+
+.frostfest h3{
+	color: #ffff;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.footer{	
+	padding: 20px 0;
+	background-color: #9575cd;
+}
+
+.footer h4{
+	font-weight: bold;
+	color: #ffff;
+}
+.footer p{
+	font-size: 18px;
+	color: #ffff;
+}
+.peta{
+	overflow:hidden;
+    padding-bottom:40%;
+    position:relative;
+    height:0;
+}
+.peta iframe{
+	left:0;
+    top:0;
+    width:100%;
+    position:absolute;    
+}
+
+.copyright{
+	background-color: #ffff;
+	padding: 30px 0;
+	opacity: 0.5;
+}
+
+.copyright small{
+	font-weight: bold;
+}

@@ -1,0 +1,86 @@
+body 
+{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url(../image/loginbackground.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: darken;
+}
+
+.formregister {
+  max-width:530px;
+  padding: 15px;
+  margin: 60px 0;
+}
+
+.formregister h1
+{
+  color: #bbdefb;
+  font-weight: bold;
+  padding-bottom: 30px; 
+}
+
+.formregister a
+{
+  font-weight: bold;
+  color: #bbdefb;
+  padding-left: 5px;
+}
+
+.formregister small
+{
+  font-weight: bold;
+  color: #bbdefb;  
+  padding-left: 10px;
+}
+
+.formregister .form-control 
+{
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.formregister input[type="text"] 
+{
+  margin-bottom: -1px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;  
+}
+
+.formregister input[type="email"] 
+{
+  margin-bottom: -1px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;  
+}
+
+.formregister input[type="password"] 
+{
+  margin-bottom: 10px;
+ border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;  
+}
+
+.formregister input[type="submit"] 
+{
+  margin-bottom: -1px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px; 
+}

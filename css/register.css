@@ -1,0 +1,152 @@
+*{
+	margin: 0; padding: 0
+	}
+
+body {
+	font-family: Open Sans, sans-serif; 	
+	background-image: url(../image/bg2.jpg);
+	background-attachment: fixed;
+}
+
+.logo {
+	margin: 10px 0;	
+}
+
+.menu{
+	margin: 10px 0;		
+}
+
+.navbar{
+	margin: 25px 0px;
+
+}
+.navbar-default{
+	background: transparent;
+	border: none;	
+}
+
+.navbar-default .navbar-nav li a {
+    color: #ffff;
+}
+
+.navbar-nav li a{
+	font-weight: bold;
+	text-decoration-color: #7777;
+}
+
+header {
+	padding: 20px; 
+}
+
+.navbar-brand{
+	font-family: 'Oswald', sans-serif;
+}
+
+.form-daftar{
+	background-color:  #673ab7;
+	/*background-image: url(../image/loginbackground.jpg);*/
+}
+
+.tengah{
+	background-image: url(../image/loginbackground.jpg);
+	border-style: solid;
+	border-radius: 5%;
+}
+
+.form-gambar{
+	margin-top: 120px;
+}
+
+.formulir{
+	font-family: 'Open Sans', sans-serif;
+	color: #ffff;	
+}
+
+.formulir h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #ffff;
+}
+
+.formulir h4{
+	font-size: 20px;
+	color: #ffff;
+	padding-bottom: 20px;	
+}
+
+.regist {
+	color: #000000;
+	font-family: roboto;
+	margin: 20px 0;
+}
+
+.label{
+	font-size: 15px;
+	text-align: justify;
+	margin-left: 60px;
+	margin-top: 10px;
+	color: #ffff;		
+}
+
+.regist input[type=text] {
+	padding: 5px;
+	border-radius: 5px;
+	width: 100%;  	
+}
+
+.regist input[type=radio]{
+	margin-bottom: 15px;
+	margin-right: 5px;
+	margin-top: 12px;
+	color: #ffff;
+}
+
+.regist input[type=submit]{
+	padding: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 5px;
+	color: #FFFFFF;
+	background-color: #278CF7;
+	cursor: pointer;
+	border: 0px;
+	border-radius: 4px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.footer{
+	/*background-color: #6a1b9a;*/
+	padding: 20px 0;
+}
+
+.footer h4{
+	font-weight: bold;
+	color: #ffff;
+}
+.footer p{
+	font-size: 18px;
+	color: #ffff;
+}
+.peta{
+	overflow:hidden;
+    padding-bottom:40%;
+    position:relative;
+    height:0;
+}
+.peta iframe{
+	left:0;
+    top:0;    
+    width:100%;
+    position:absolute;
+}
+
+.copyright{
+	background-color: #ffff;
+	padding: 30px 0;
+	opacity: 0.5;
+}
+
+.copyright small{
+	font-weight: bold;
+}

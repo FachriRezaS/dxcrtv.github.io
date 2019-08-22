@@ -1,0 +1,134 @@
+*{
+	margin: 0; padding: 0
+	}
+	
+body {
+	font-family: 'Open Sans' 
+	sans-serif; 
+	font-color: #ffff;
+	background-image: url(../image/bg2.jpg);
+	background-attachment: fixed;
+}
+
+.logo {
+	margin: 10px 0;	
+}
+
+.menu{
+	margin: 10px 0;		
+}
+
+.navbar{
+	margin: 25px 0px;
+
+}
+.navbar-default{
+	background: transparent;
+	border: none;	
+}
+
+.navbar-default .navbar-nav li a {
+    color: #ffff;
+}
+
+.navbar-nav li a{
+	font-weight: bold;
+	text-decoration-color: #ffff;
+}
+
+header {
+	padding: 20px; 
+}
+
+.navbar-brand{
+	font-family: 'Oswald', sans-serif;
+}
+
+.event{
+	margin: 50px 0;
+}
+
+.acara img{
+	border-radius: 50%;
+}
+
+.galery{
+	background-color: #7e57c2;	
+}
+
+.detail{
+	margin-top: 30px;
+	color: #ffff;
+}
+
+.detail a{
+	color: #ffff;
+}
+
+.galeri{
+	padding-bottom: 35px;
+	background-color: #673ab7;
+}
+
+.galeri h1{
+	color: #ffff;
+	font-weight: bold;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.caption{
+	color: #ffff;
+	padding-top: 15px;	
+}
+
+.video{
+	background-color: #b388ff;
+}
+
+.video h1{
+	color: #ffff;
+	font-weight: bold;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.videos{
+	margin-bottom: 30px;
+}
+
+.footer{
+	/*background-color: #6a1b9a;*/
+	padding: 20px 0;	
+}
+
+.footer h4{
+	font-weight: bold;
+	color: #ffff;
+}
+.footer p{
+	font-size: 18px;
+	color: #ffff;
+}
+.peta{
+	overflow:hidden;
+    padding-bottom:40%;
+    position:relative;
+    height:0;
+}
+.peta iframe{
+	left:0;
+    top:0;
+    width:100%;
+    position:absolute;
+}
+
+.copyright{
+	background-color: #ffff;
+	padding: 30px 0;
+	opacity: 0.5;
+}
+
+.copyright small{
+	font-weight: bold;
+}

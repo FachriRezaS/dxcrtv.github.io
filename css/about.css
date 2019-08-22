@@ -1,0 +1,166 @@
+*{
+	margin: 0; padding: 0
+	}
+	
+body {
+	font-family: 'Open Sans' 
+	sans-serif; 
+	font-color: #ffff;
+	background-image: url(../image/bg2.jpg);
+	background-attachment: fixed;
+}
+
+.logo {
+	margin: 10px 0;	
+}
+
+.menu{
+	margin: 10px 0;		
+}
+
+.navbar{
+	margin: 25px 0px;
+
+}
+.navbar-default{
+	background: transparent;
+	border: none;	
+}
+
+.navbar-default .navbar-nav li a {
+    color: #ffff;
+}
+
+.navbar-nav li a{
+	font-weight: bold;
+	text-decoration-color: #ffff;
+}
+
+header {
+	padding: 20px; 0;
+}
+
+.navbar-brand{
+	font-family: 'Oswald', sans-serif;
+}
+
+.gambar{
+	background-color: #e0e0e0;	
+}
+
+.about{
+	background-color: #7e57c2;
+}
+
+.tentang h1{
+	font-weight: bold;
+	color: #ffff;
+}
+
+.tentang1{
+	margin-top: 5%;
+}
+
+.tentang1 p{
+	font-size: 25px;
+	font-family: 'sans-serif';
+	color: 	#ffffff;		
+}
+
+.tentang1 img{
+
+}
+
+.tentang2 h1{
+	font-size: 25px;
+	font-family: 'sans-serif';
+	font-weight: bolder;
+	color: 	#ff7043	;	
+}
+.tentang2 p{
+	font-size: 25px;
+	font-family: 'sans-serif';
+	color: 	#ffffff;
+	padding-right: 50px;	
+}
+
+.tentang2{
+	margin: 30px 0;
+}
+
+.tentang2 img{
+
+}
+
+.tulisan{
+	margin: 40px 0;
+}
+
+.about .bold{
+	font-size: 30px;
+	font-family: 'sans-serif';
+	font-weight: bold;	
+	color: 	#ff9800;	
+}
+
+.about .bold2{
+	font-size: 40px;
+	font-family: 'sans-serif';
+	font-weight: bold;	
+	color: 	#ff7043;	
+}
+
+.teams{
+	background-color: #cfd8dc;
+	padding-bottom: 20px;	
+}
+
+.our-team h1{
+	font-weight: bold;
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+
+.member img{
+	/*border-radius: 40%;*/
+}
+
+.colase{
+	background-color: #ffff;
+}
+
+.footer{
+	/*background-color: #6a1b9a;*/
+	padding: 20px 0;	
+}
+
+.footer h4{
+	font-weight: bold;
+	color: #ffff;
+}
+.footer p{
+	font-size: 18px;
+	color: #ffff;
+}
+.peta{
+	overflow:hidden;
+    padding-bottom:40%;
+    position:relative;
+    height:0;
+}
+.peta iframe{
+	left:0;
+    top:0;
+    width:100%;
+    position:absolute;
+}
+
+.copyright{
+	background-color: #ffff;
+	padding: 30px 0;
+	opacity: 0.5;
+}
+
+.copyright small{
+	font-weight: bold;
+}
